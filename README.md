@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-I'm currently working on Power Bi Dashboard Analysis.<br>I Statistics & Mathematics</br>
+I'm currently working on Power Bi Dashboard Analysis.<br>I love Statistics & Mathematics</br>
 
 
 
